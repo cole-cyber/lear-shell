@@ -1,4 +1,4 @@
-# lear-shell
+# learn-shell
 
 shell scripting Topics
 <<<<<<<<< Temporary merge branch 1
