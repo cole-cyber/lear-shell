@@ -2,4 +2,4 @@
 
 shell scripting Topics
 ...........................
-Below are the list of scripting topics:
+Below are the list of the Topics:
