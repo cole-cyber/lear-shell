@@ -12,9 +12,9 @@ echo hello world
 #CYAN     -36
 # \e [0m -> This is to enable the color
 
-echo "\e [31m This message is in Red \e[0m"
-echo "\e [32m This message is in Green \e[0m"
-echo "\e [33m This message is in Yellow \e[0m"
+echo -e "\e[31m This message is in Red \e[0m"
+echo -e "\e[32m This message is in Green \e[0m"
+echo -e "\e[33m This message is in Yellow \e[0m"
 
 
 
