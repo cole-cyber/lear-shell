@@ -1,0 +1,5 @@
+if input has special xter other than alphabet and charatcter you must put quotes.
+single quotes and double quotes, doubkle is better.
+if you do a=10 for instance and do echo a you will get 10 but if you do echo 'a' (with single quote the return will not be 10 but a
+
+echo
