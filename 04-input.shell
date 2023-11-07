@@ -1,5 +1,7 @@
-# a=10
-# 1 -
-2 -
-# * -
-# -0
+echo 0 - $0
+echo 1 - $1
+echo 2 - $2
+# [*] is a special character so it put inside double quotes.
+echo "* - $*"
+# [#] is a special character so it put inside double quotes.
+echo "# - $#"
